@@ -3,7 +3,7 @@ This repository has the dataset and code underlying the findings described in th
 Alsaleh, N., & Farooq, B. (2022). The Impact of COVID-19 Pandemic on Ridesourcing Services Differed Between Small Towns and Large Cities. arXiv preprint arXiv:2201.10961.
 
 
-There are four folders within the repository, and here are the descriptions of the contents of each folder:
+There are three folders within the repository, and here are the descriptions of the contents of each folder:
 
 1. "Figures" contains the data needed to reproduce the figures presented in the paper.
 
