@@ -16,3 +16,6 @@ Contains the required data to generate SHAP summary plot for the percent reducti
 
 Fig6 Folder:
 Contains the required data to generate SHAP summary plot for the direct demand models. 
+
+S1 Fig Folder:
+Contains the required data to display the pre-pandemic origin-destination flow patterns for the ridesourcing services in Chicago.
